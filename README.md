@@ -1,4 +1,4 @@
-# CAIS_Winter_Project
+# CAIS++_Winter_Project
 
 First name: Zitong
 Last name: Huang
@@ -29,6 +29,9 @@ a) How well does your dataset, model architecture, training procedures, and chos
 b) Can your efforts be extended to wider implications, or contribute to social good? Are there any limitations in your methods that should be considered before doing so?
   Yes. I think it can be integrated into applications or devices to assist individuals with hearing impairments. This can enhance accessibility and inclusivity by providing a means for communication through ASL. The application should have an interface that allows users to input gestures and convert it into text or speech. 
   However, the accuracy of this model still needs to be increased. We need to consider more on variations in hand shapes, positions, and lighting conditions. 
+
+
+Reference: https://www.kaggle.com/code/julichitai/asl-alphabet-classification-pytorch
 
 c) If you were to continue this project, what would be your next steps?
   I would like to increase the performance of this model first. I will use data augmentation to increase the diversity of the dataset, and try different hyperparameters. 
